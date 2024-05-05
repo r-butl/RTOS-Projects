@@ -1,6 +1,6 @@
 # Simulation of Execution Time Prediction
 
-[![Watch the Video](https://img.youtube.com/vi/2XYbItuuTAc/maxresdefault.jpg)](https://youtu.be/2XYbItuuTAc)
+[![Watch the Video]([https://img.youtube.com/vi/2XYbItuuTAc/maxresdefault.jpg)](https://youtu.be/2XYbItuuTAc)
 
 The objective of this project was to evaluate various scheduling algorithms to optimize the allocation of processes within a predefined time window. Each process is characterized by an average execution time and a variance, which serve as parameters for a normal distribution. Whenever a process is executed, an actual execution time is computed based on this distribution, utilizing the process's specified average and variance.
 
